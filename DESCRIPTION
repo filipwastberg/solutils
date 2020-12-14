@@ -1,0 +1,12 @@
+Package: solutils
+Type: Package
+Title: Database utils for Solita
+Version: 0.1.0
+Author: Filip Wastberg
+Maintainer: Filip Wastberg <filip.wastberg@solita.fi>
+Description: This package contains a simple function for writing a dbplyr query to snowflake
+    It is used for demos
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
